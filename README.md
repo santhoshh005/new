@@ -1,7 +1,5 @@
 # new
 <h> THIS IS NEW </h>
-
-```html
 <p>This is a paragraph.</p>
 
 <ul>
